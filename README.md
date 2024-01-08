@@ -39,3 +39,9 @@ print("harga             : ", menu[i], "x", jumlah)
 print("total             : ", bayar)
 print("======================================")
 ```
+### hasil
+![gambar](hh.png)
+
+### setelah user menginput\memesan makanan
+![gambar](ii.png)
+
