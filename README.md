@@ -4,7 +4,7 @@
 | --- | --- |
 | NIM    | 312310651 |
 | KELAS  | TI.23.A6 |
-| DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
+| DOSEN  | Agung Nugroho, S.Kom.,M.Kom |
 | LINK   | https://youtu.be/l9ymt89vZlU?si=hXzF022djMDv1GhR |
 
 # membuat mesin kasir
